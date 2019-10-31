@@ -18,3 +18,5 @@ gth: 119
 Date: Wed, 30 Oct 2019 09:20:09 GMT
     �0{"pingInterval":25000,"pingTimeout":60000,"upgrades":["websocket"],"sid":"cff0caad2bbc48d48ce6ffd3ed444ff4"}�40
 ```
+
+[![asciicast](https://asciinema.org/a/278206.svg)](https://asciinema.org/a/278206)
